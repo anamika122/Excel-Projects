@@ -1,5 +1,9 @@
 # Coffee Sales Analysis Report
 
+# The Dashboard for the Coffee Sales Analysis
+
+![Screenshot 2024-11-17 162926](https://github.com/user-attachments/assets/2dc2fc76-5d0b-4240-b9ce-d52fcf6a2ebe)
+
 ## Overview of Coffee Sales Trends
 - **Total Sales Over Time:** 
   The sales analysis reveals a fluctuating trend for coffee types over the years. **Arabica** and **Excelsa** demonstrated a peak in 2020, followed by a gradual decline. **Liberica** and **Robusta** experienced consistent underperformance, particularly in recent years.
@@ -37,5 +41,8 @@
 ---
 
 This report highlights a strong understanding of sales dynamics, customer behavior, and market segmentation. It emphasizes actionable strategies to improve profitability while identifying growth opportunities.
-![Screenshot 2024-11-17 162926](https://github.com/user-attachments/assets/2dc2fc76-5d0b-4240-b9ce-d52fcf6a2ebe)
+
+
+
+
 
