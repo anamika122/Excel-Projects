@@ -37,3 +37,4 @@
 ---
 
 This report highlights a strong understanding of sales dynamics, customer behavior, and market segmentation. It emphasizes actionable strategies to improve profitability while identifying growth opportunities.
+![Uploading Screenshot 2024-11-17 162926.png…]()
